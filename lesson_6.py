@@ -24,3 +24,9 @@ git commit -m "second commit"
 git push
 
 """
+
+"""
+git checkout -b test
+
+
+"""
