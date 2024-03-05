@@ -7,6 +7,20 @@ git commit -m "First Commit"
 
 git remote add origin <HTTPS link.git>
 
-git push -u origin master
+git status
+
+git branch -M main
+
+git push -u origin main
+
+"""
+
+
+"""
+git add .
+
+git commit -m "second commit"
+
+git push
 
 """
